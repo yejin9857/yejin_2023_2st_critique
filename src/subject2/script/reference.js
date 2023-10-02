@@ -1,81 +1,9 @@
 const reference = [
   {
-    author: "국립국악원",
-    title: "국악아카이브",
+    author: "",
+    title: "",
     year: "",
     sourceTitle: "",
-    link: "http://archive.gugak.go.kr/portal/main",
-  },
-  {
-    author: "국립국악원",
-    title:
-      "국악전집, 제19집: 여민락 만, 여민락 영, 해령, 보허자, 낙양춘, 경모궁제례악, 정동방곡, 유황곡",
-    year: "2007",
-    sourceTitle: "서울: 국립국악원.",
-    link: "",
-  },
-  {
-    author: "국립국악원",
-    title: "피리 정악보",
-    year: "2015",
-    sourceTitle: "서울: 국립국악원.",
-    link: "",
-  },
-  {
-    author: "국립국악원",
-    title: "거문고 정악보",
-    year: "2015",
-    sourceTitle: "서울: 국립국악원.",
-    link: "",
-  },
-  {
-    author: "국립국악원",
-    title: "가야금 정악보",
-    year: "2015",
-    sourceTitle: "서울: 국립국악원.",
-    link: "",
-  },
-  {
-    author: "국립국악원",
-    title: "해금 정악보",
-    year: "2015",
-    sourceTitle: "서울: 국립국악원.",
-    link: "",
-  },
-  {
-    author: "국립국악원",
-    title: "대금 정악보",
-    year: "2016",
-    sourceTitle: "서울: 국립국악원.",
-    link: "",
-  },
-  {
-    author: "김희정, 오동우",
-    title: "청각과 시각의 교차감각 매핑에 의한 소리 시각화 연구",
-    year: "2018",
-    sourceTitle: "한국 디자인포럼, 23(2), 7-16.",
-    link: "",
-  },
-  {
-    author: "오영미",
-    title: "타이포그라피 관점으로 본 존 케이지의 시각악보 연구",
-    year: "2008",
-    sourceTitle: "국내석사학위논문 홍익대학교 대학원. 서울.",
-    link: "",
-  },
-  {
-    author: "이상규",
-    title: "한국의 악기 口音",
-    year: "2003",
-    sourceTitle: "한국음악연구, 33, 39-73.",
-    link: "",
-  },
-  {
-    author: "이보람, 장동련",
-    title:
-      "한국 전통악보 정간보에 나타난 시각적 표현체계연구: 타이포그라피적 특징을 중심으로. ",
-    year: "2015",
-    sourceTitle: "기초조형학연구, 16(1), 433-449.",
     link: "",
   },
 ];
